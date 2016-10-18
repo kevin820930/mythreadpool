@@ -13,6 +13,6 @@ int main()
     for(; (*num)<1000; (*num)++) {
         printf("--%d--\n",(*num));
     }
-
+    return 0;
 }
 
